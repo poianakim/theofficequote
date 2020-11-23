@@ -59,22 +59,21 @@ const App = () => {
         </button>
           <div id="shareBtns">
             <TwitterShareButton
-
               onClick={onRandomIndexClick}
-              url={"https://poianakim.github.io/theofficequote/"}>
+              url="https://poianakim.github.io/theofficequote/">
               <TwitterIcon className="share-btn" size={20} round={true} />
             </TwitterShareButton>
             <FacebookShareButton
 
               onClick={onRandomIndexClick}
-              url={"https://poianakim.github.io/theofficequote/"}
+              url="https://poianakim.github.io/theofficequote/"
               quote={quoteBoxString}>
               <FacebookIcon className="share-btn" size={20} round={true} />
             </FacebookShareButton>
             <WhatsappShareButton
 
               onClick={onRandomIndexClick}
-              url={"https://poianakim.github.io/theofficequote/"}
+              url="https://poianakim.github.io/theofficequote/"
               children={quoteBoxString}>
               <WhatsappIcon className="share-btn" size={20} round={true} />
             </WhatsappShareButton>
