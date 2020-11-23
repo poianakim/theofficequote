@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/theofficequote/static/css/main.44325fc7.chunk.css",
+    "main.js": "/theofficequote/static/js/main.60847843.chunk.js",
+    "main.js.map": "/theofficequote/static/js/main.60847843.chunk.js.map",
+    "runtime-main.js": "/theofficequote/static/js/runtime-main.8cc79117.js",
+    "runtime-main.js.map": "/theofficequote/static/js/runtime-main.8cc79117.js.map",
+    "static/js/2.588df515.chunk.js": "/theofficequote/static/js/2.588df515.chunk.js",
+    "static/js/2.588df515.chunk.js.map": "/theofficequote/static/js/2.588df515.chunk.js.map",
+    "index.html": "/theofficequote/index.html",
+    "static/css/main.44325fc7.chunk.css.map": "/theofficequote/static/css/main.44325fc7.chunk.css.map",
+    "static/js/2.588df515.chunk.js.LICENSE.txt": "/theofficequote/static/js/2.588df515.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8cc79117.js",
+    "static/js/2.588df515.chunk.js",
+    "static/css/main.44325fc7.chunk.css",
+    "static/js/main.60847843.chunk.js"
+  ]
+}
